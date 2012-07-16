@@ -1,0 +1,106 @@
+		<style type='text/css'>
+			.sendfeed-alt {
+				background-color: #ebebeb;
+			}
+			
+			#sendfeed-feedlist tr:hover {
+				background-color: #FFFBCC;
+			}
+
+			.sendfeed-instructions {
+				border-left: 10px solid #E5F3FF;
+				float: left;
+				padding-left: 10px;
+				width: 25%;
+				margin-left: 10px;
+			}
+
+			.sendfeed-instructions ul{
+				list-style-type: none;
+				margin: 0;
+				padding: 10px 0 10px 10px;
+			}
+			.sendfeed-instructions ul li{
+				list-style-type: none;
+			}
+
+			.sendfeed-form {
+				width: 70%;
+				float: left;
+				margin-bottom: 10px;
+				padding-right: 1%;
+			}
+
+			.sendfeed-form .sendfeed-option {
+				display: block;
+				padding: 0 0 10px 0;
+				clear: both;
+			}
+
+			.sendfeed-form .sendfeed-option strong {
+				display: block;
+				float: left;
+				width: 30%;
+			}
+
+			.sendfeed-form .sendfeed-option input,
+			.sendfeed-form .sendfeed-option select {
+				border: 1px solid black;
+				float: left;
+				margin-right: 5px;
+				width: 29%
+			}
+
+			.sendfeed-form .sendfeed-option small {
+				display: block;
+				float: left;
+				width: 38%;
+				padding: 0px;
+				margin: 0px;
+				clear: right;
+			}
+
+			.sendfeed-form textarea {
+				width: 90%;
+				height: 200px;
+				border: 1px solid black;
+			}
+
+			.sendfeed-form .sendfeed-small-textarea {
+				clear: left;
+				width: 59%;
+				height: 100px;
+				float: left;
+				margin-right: 5px;
+				border: 1px solid black;
+			}
+
+			.sendfeed-form .clear {
+				clear: both;
+			}
+
+			.sendfeed-form .sendfeed-option input .unformatted {
+				width: 20px;
+				height: 20px;
+			}
+			
+			#sendfeed-previews textarea {
+				border: 1px solid black;
+				padding: 0px;
+				margin: 10px;
+				height: 250px;
+				width: 100%;
+			}
+			
+			#sendfeed-preview-html
+			{
+				border: 1px solid black;
+				padding: 0px;
+				margin: 10px;
+				height: 250px;
+				width: 100%;
+				overflow: auto;
+			}
+			
+
+		</style>
