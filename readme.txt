@@ -98,8 +98,8 @@ http://truthmedia.com/category/sendfeed/
 	is working as expected) (You may also need to use /usr/bin/php-cgi instead, 
 	depending on your server configuration)
 	
-	Alternative: Use a third party service like this one...
-	https://www.setcronjob.com/
+	Alternative: Use a third party service like these ones...
+	https://www.setcronjob.com/ and http://www.easycron.com/
 
 6.	Have fun, enjoy using the SendFeed plugin, and don't forget to come
 	[visit us](http://truthmedia.com "TruthMedia.com"). For the
